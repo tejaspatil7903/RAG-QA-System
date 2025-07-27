@@ -57,7 +57,7 @@ Using LangChain’s document loading and retrieval tools, the system breaks the 
 **Tejas Vinod Patil**  
 📧 tejasvpatil03@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tejasvpatil7903)  
-🔗 [GitHub](https://github.com/tejaspatil7903/pdf-rag-qa)
+🔗 [GitHub](https://github.com/tejaspatil7903/)
 
 ---
 
