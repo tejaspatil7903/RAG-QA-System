@@ -22,3 +22,12 @@ This project is a smart question-answering system that reads any PDF document an
 
 ## 📂 Folder Structure
 
+pdf-rag-qa/
+│
+├── app.py # Main logic
+├── attention.pdf # Sample input PDF
+├── .env # API keys
+├── requirements.txt # Dependencies
+├── README.md # This file
+└── docs/
+└── summary.pdf # 1-page case study
