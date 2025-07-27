@@ -19,3 +19,25 @@ This project is a smart question-answering system that reads any PDF document an
 - HuggingFace Embeddings
 - Chroma Vector Store
 - dotenv for environment management
+
+
+## ⚙️ How It Works
+
+1. Load and split a PDF using LangChain’s `PyPDFLoader`.
+2. Convert text chunks to vector embeddings using HuggingFace.
+3. Store embeddings in a Chroma vector store.
+4. Create a RAG chain using a Mistral-7B instruct model.
+5. Ask a question — the model will only respond based on the document.
+
+## 🧪 Sample Question
+
+> ❓ *"What are encoder and decoder tasks?"*
+
+🧠 The system searches relevant chunks from the PDF and answers using the Mistral-7B model.
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/tejaspatil7903/pdf-rag-qa.git
+cd pdf-rag-qa
+pip install -r requirements.txt
