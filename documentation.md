@@ -63,4 +63,4 @@ Using LangChain’s document loading and retrieval tools, the system breaks the 
 
 ## 🔗 GitHub
 
-[github.com/tejaspatil7903/pdf-rag-qa](https://github.com/tejaspatil7903/pdf-rag-qa)
+[github.com/tejaspatil7903/pdf-rag-qa](https://github.com/tejaspatil7903/RAG-QA-System)
